@@ -2,9 +2,6 @@
 
 EduSync is a comprehensive learning app designed to facilitate seamless online classroom experiences. It enables users to create and join classrooms, track attendance, monitor student progress, engage in quizzes, and stay updated with notices.
 
-## GitHub Link 
-- **https://github.com/myashwanthkumar/ISE_LLM.git**
-
 ## Drive link for Screenshots
 - **https://drive.google.com/drive/folders/17-0GIDRYbdlfHIJUQ95uesbJskNqCjmp**
 
