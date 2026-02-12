@@ -32,9 +32,9 @@ EduSync is a comprehensive learning app designed to facilitate seamless online c
 - **AI-powered Progress Insights**: Integrate AI to provide deeper insights into student progress.
 
 ## Contributors
-- **Pashaula Eswar Sai [ CS24M109 ]**: Join Class, Create Class, Attendance Tracking
-- **M Yashwanth Kumar [ CS24M122 ]**: Progress Tracking, Participants List, Discussion Board
-- **Gooty Bharadwaj [ CS24M123 ]**: Login Authentication, Quiz Creation, Quiz Statistics
+- **Pashaula Eswar Sai**: Join Class, Create Class, Attendance Tracking
+- **M Yashwanth Kumar**: Progress Tracking, Participants List, Discussion Board
+- **Gooty Bharadwaj**: Login Authentication, Quiz Creation, Quiz Statistics
 
 ## For testing the features of the Applications
 -  UserName:myash     Password : Ya#123
